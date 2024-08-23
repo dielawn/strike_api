@@ -1,0 +1,24 @@
+{
+  "name": "strike_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dielawn/strike_api.git"
+  },
+  "author": "dielawn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dielawn/strike_api/issues"
+  },
+  "homepage": "https://github.com/dielawn/strike_api#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "nodemon": "^3.1.4",
+    "uuid": "^10.0.0"
+  }
+}
